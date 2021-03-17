@@ -4,6 +4,7 @@ namespace BankingDomain
 {
     public class BankAccount
     {
+        // test
         private decimal _balance = 5000; // Class Variable "Field"
         private ICanCalculateBankAccountBonuses _bankAccountBonusCalculator;
 
